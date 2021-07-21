@@ -9,19 +9,11 @@ I've been studying and practicing through projects with technologies such as: <i
 
 ### Hobbies and interests ✨
 
-.
-
-<p align="center">
-   <a href="https://github.com/RanilsonJunior?tab=repositories">
-    <img
-      align="center"
-      width="800px"
-      height="180px"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=silviodiasjr&langs_count=8&layout=compact&theme=dracula"
-    />
-  </a>
- </p> 
   
-![Snake animation](https://github.com/nayyadev/nayyadev/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/RanilsonJunior/RanilsonJunior/blob/output/github-contribution-grid-snake.svg)
 
-<a href="https://github.com/RanilsonJunior" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </a> <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-ff69b4?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a>  <a href="" target="_blank"><img src="https://img.shields.io/badge/-Gmail-lightgray?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank"></a> 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RanilsonJunior&layout=compact)](https://github.com/RanilsonJunior/github-readme-stats)
+
+
+<a href="https://github.com/RanilsonJunior" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-ff69b4?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a> <a href="" target="_blank"><img src="https://img.shields.io/badge/-Gmail-lightgray?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank"></a> 
