@@ -12,7 +12,7 @@ I've been studying and practicing through projects with technologies such as: <i
 .
 
 <p align="center">
-   <a href="https://github.com/silviodiasjr?tab=repositories">
+   <a href="https://github.com/RanilsonJunior?tab=repositories">
     <img
       align="center"
       width="800px"
