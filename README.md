@@ -11,6 +11,16 @@ I've been studying and practicing through projects with technologies such as: <i
 
 .
 
+<p align="center">
+   <a href="https://github.com/silviodiasjr?tab=repositories">
+    <img
+      align="center"
+      width="800px"
+      height="180px"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=silviodiasjr&langs_count=8&layout=compact&theme=dracula"
+    />
+  </a>
+ </p> 
   
 ![Snake animation](https://github.com/nayyadev/nayyadev/blob/output/github-contribution-grid-snake.svg)
 
