@@ -4,7 +4,7 @@
 
 * I live in Brazil, northeast
  
-### What I've been learning 🤓
+### knowledge 🤓
  
 I've been studying and practicing through projects with technologies such as: 
 
