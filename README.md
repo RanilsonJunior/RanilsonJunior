@@ -26,11 +26,8 @@
 </div>
 
  
- 
- 
-   <p>### Languages I'm learning</p>
-
-<div align="center">
+ <div align="center">
+   <p>Languages I'm learning</p>
  
    <img align="center" alt="react" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"> 
    <img align="center" alt="php" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"> 
@@ -39,11 +36,14 @@
  
 ![Snake animation](https://github.com/RanilsonJunior/RanilsonJunior/blob/output/github-contribution-grid-snake.svg)
 
-<div aling="center">
-   <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=RanilsonJunior&show_icons=true&theme=default"/>
-   <img height="173em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanilsonJunior&layout=compact"/>
+
+<div align="center">
+ <a href="https://github.com/RanilsonJunior">
+ <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=RanilsonJunior&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+ <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanilsonJunior&layout=compact&langs_count=7&theme=onedark"/>
 </div>
 
+ </br>
 
 <div align="center">
    <a href="https://www.linkedin.com/in/ranilson-de-andrade-saraiva-junior/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
