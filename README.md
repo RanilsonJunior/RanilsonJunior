@@ -25,7 +25,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmar
   
 ![Snake animation](https://github.com/RanilsonJunior/RanilsonJunior/blob/output/github-contribution-grid-snake.svg)
 
-<div>
+<div aling="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RanilsonJunior&show_icons=true&theme=default"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanilsonJunior&layout=compact"/>
 </div>
